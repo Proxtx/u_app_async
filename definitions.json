@@ -1,0 +1,14 @@
+{
+  "methods": {
+    "async": {
+      "name": "Async",
+      "arguments": [
+        {
+          "type": "unify",
+          "name": "Action",
+          "evaluate": false
+        }
+      ]
+    }
+  }
+}
